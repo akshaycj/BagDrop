@@ -55,7 +55,7 @@
     "react": "^15.4.2",
     "react-dom": "^15.4.2"
   },
-  "homepage": "http://akshaycj.github.io/bagdrop",
+  "homepage": "http://akshaycj.github.io/BagDrop",
   "scripts": {
     "start": "node scripts/start.js",
     "build": "node scripts/build.js",
